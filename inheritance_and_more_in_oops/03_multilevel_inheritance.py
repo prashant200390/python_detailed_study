@@ -1,6 +1,6 @@
 # there are basically 3 types of inheritence (fyi single, multiple and multilevel)
 # now its multilevel inheritance 
-# to simply put it in pieces , it is layered inheritence like grandpa to father and father to son.
+# to simply put it in pieces , it is layered inheritence like grandpa to father and father to son
 class grandfather:
     grandpa_name = "Tek Narayan"
 

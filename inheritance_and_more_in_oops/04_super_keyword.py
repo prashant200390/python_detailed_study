@@ -13,4 +13,4 @@ class kolkata(delhi):
         print("This is from Kolkata.")
 
 place = kolkata()
-# fyi super() keyword helps to execute function of parent class .
+# fyi super() keyword helps to execute function of parent class.

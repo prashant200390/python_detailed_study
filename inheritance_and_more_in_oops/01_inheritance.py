@@ -1,4 +1,4 @@
-# inheritance is the way of programming in which features of one class can be used by another class
+# inheritance is the way of programming in which features of one class can be used by another class.
 # there is parent class(i.e which provides info) and child class (i.e that inherits properties)
 class emp():    # Base or Parent class
     company_name = "Esewa"

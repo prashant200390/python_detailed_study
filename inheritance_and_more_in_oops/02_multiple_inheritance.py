@@ -1,4 +1,4 @@
-# it is another type of inheritance with multiple base class and a single derive class
+# it is another type of inheritance with multiple base class and a single derive class.
 # to make it understand more easily , i will use term like father,mother and child for classes
 class father:
     father_name = "Krishna"
